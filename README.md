@@ -18,7 +18,7 @@ To answer 5 business-focused questions using Python, pandas, and visualization l
 | `top_products.csv` | Top 5 products by quantity, revenue, and unique customer count |
 | `city_metrics.csv` | Revenue, orders, and premium customer % by city |
 | `customer_funnel_metrics.csv` | Conversion metrics: views → cart → purchase per customer |
-| `high_intent_customers.csv` | Customers with high purchase intent based on defined criteria |
+| `high_intent_customers.dataframe` | Customers with high purchase intent based on defined criteria |
 
 ---
 
